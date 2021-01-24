@@ -10,6 +10,13 @@
 
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/17Vr-ScDNMWMHSv-56hM5sYzURMEOb8cQ/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
+### 💻 Personal Project
+
+- [INSTAGRAM](https://github.com/linh-cat/react-instagram)
+- [NETFLIX](https://github.com/linh-cat/netflix-clone-react)
+- [YOUTUBE](https://github.com/linh-cat/react-youtube)
+- [Chat-app-UI](https://github.com/linh-cat/chat-app-ui)
+
 ### 🛠 &nbsp;Tech Stack
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
