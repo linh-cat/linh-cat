@@ -16,6 +16,7 @@
 - [NETFLIX](https://github.com/linh-cat/netflix-clone-react)
 - [YOUTUBE](https://github.com/linh-cat/react-youtube)
 - [Chat-app-UI](https://github.com/linh-cat/chat-app-ui)
+- [Pinterest](https://github.com/linh-cat/pinterest-clone)
 
 ### 🛠 &nbsp;Tech Stack
 
