@@ -17,6 +17,7 @@
 - [YOUTUBE](https://github.com/linh-cat/react-youtube)
 - [Chat-app-UI](https://github.com/linh-cat/chat-app-ui)
 - [Pinterest](https://github.com/linh-cat/pinterest-clone)
+- [Fashe](https://github.com/linh-cat/NodeJS-Fashe)
 
 ### 🛠 &nbsp;Tech Stack
 
