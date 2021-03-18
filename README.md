@@ -8,7 +8,7 @@
 🎓 &nbsp;I'm currently studying software engineer at the Sai Gon University of HCM.\
 ✍️ &nbsp;In my free time, I love to relax myself by listening to music and watching my favorite films. I study all days, so after 10 PM is the only time that I can use for myself. I have a smartphone, so I can download a lot of songs from the Internet for free, and I usually listen to them with my headphones. If noone is at home, I will turn on the loudspeakers to have the best experience with music, but most of the time I only listen to music with headphones. Besides music, movies are my second biggest love. When I am not listening to the songs, I turn on my computer and watch some of the latest movies on the websites. Since most of the best films are from Europe and America, this is also a way for me to improve my English skills. \
 
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/17Vr-ScDNMWMHSv-56hM5sYzURMEOb8cQ/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume](https://docs.google.com/document/d/1TBpgavQuQLAScOYsPpguTYlIopa-KsmfD3dPyn62KeQ/edit) for more details about me. I'm open to feedback and suggestions!
 
 ### 💻 Personal Project
 
