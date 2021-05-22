@@ -12,7 +12,7 @@
 
 ### 💻 Personal Project
 
-- [INSTAGRAM](https://github.com/linh-cat/react-instagram)
+- [INSTAGRAM](https://github.com/linh-cat/social-instagram-full)
 - [NETFLIX](https://github.com/linh-cat/netflix-clone-react)
 - [YOUTUBE](https://github.com/linh-cat/react-youtube)
 - [Chat-app-UI](https://github.com/linh-cat/chat-app-ui)
