@@ -12,12 +12,7 @@
 
 ### 💻 Personal Project
 
-- [INSTAGRAM](https://github.com/linh-cat/social-instagram-full)
-- [NETFLIX](https://github.com/linh-cat/netflix-clone-react)
-- [YOUTUBE](https://github.com/linh-cat/react-youtube)
-- [Chat-app-UI](https://github.com/linh-cat/chat-app-ui)
-- [Pinterest](https://github.com/linh-cat/pinterest-clone)
-- [Fashe](https://github.com/linh-cat/NodeJS-Fashe)
+- [Fystack]([https://github.com/linh-cat/social-instagram-full](https://fystack.io/))
 
 ### 🛠 &nbsp;Tech Stack
 
