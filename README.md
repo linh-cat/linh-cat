@@ -12,7 +12,7 @@
 
 ### 💻 Personal Project
 
-- [Fystack]([https://github.com/linh-cat/social-instagram-full](https://fystack.io/))
+- [Fystack]([https://fystack.io])
 
 ### 🛠 &nbsp;Tech Stack
 
