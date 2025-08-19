@@ -98,7 +98,7 @@ const linh = {
 - 🎯 Multi-chain UI Components
 
 **⚙️ Backend Contributions**
-- 🌐 Node.js + Express API Development
+- 🌐 Golang
 - 🔐 MPC Key Management Integration
 - 🔗 Blockchain RPC Connections
 - 📊 Real-time Data Processing
